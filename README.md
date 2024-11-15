@@ -1,2 +1,2 @@
-# first_project-ecommerce-
-e-commerce product categorization
+# first_capstone_project
+
