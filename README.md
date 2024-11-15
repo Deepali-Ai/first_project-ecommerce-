@@ -1,4 +1,4 @@
-# first_capstone_project
+# first_capstone_project - Credit_card
 
 # Problem Statement :
 A credit card is one of the most used financial products to make online purchases and payments. Though the Credit cards can be a convenient way to manage your finances, they can also be risky. Credit card fraud is the unauthorized use of someone else's credit card or credit card information to make purchases or withdraw cash. 
@@ -27,4 +27,5 @@ Evaluate the performance of the model on data that was not used during the train
 * Model Deployment: 
 Model deployment is the process of making a trained machine learning model available for use in a production environment.
 
-# Expected Outcome
+# Expected Outcome :
+The dataset contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions. 
